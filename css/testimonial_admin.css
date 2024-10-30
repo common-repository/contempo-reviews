@@ -1,0 +1,81 @@
+/* WP ADMIN STYLES */
+
+/* Gradient transparent - color - transparent */ 
+
+input.review-textfield {
+	width:150px;
+}
+hr.review-manager-divider { 
+	border: 0;
+	height: 1px;
+	width:100%;
+	background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+	background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+	background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+	background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+}
+
+hr.large-divider { 
+	border: 0; border-bottom: 1px dashed #ccc; background: #999;
+}
+
+hr.divider-1{
+	display:none;
+}
+
+h2.testimonial{
+	font-weight:bold;
+	text-shadow: 2px 2px #eee;
+} 
+
+ul.review_manager_buttons li{
+	float:left;
+}
+
+div#review-form{
+	background-color:#fff;
+	max-width:400px;
+	margin-top:10px;
+	padding:0 10px 5px 10px;
+	border:1px solid #eee;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+}
+
+div#review-map, div#review-testimonials{
+	background-color:#fff;
+	max-width:400px;
+	margin-top:10px;
+	padding:0 10px 5px 10px;
+	border:1px solid #eee;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+}
+
+div#review-map div{
+	margin-bottom:5px;
+}
+
+/* Clearfix */
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}

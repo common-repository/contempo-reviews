@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contempo Reviews\n"
+"POT-Creation-Date: 2013-06-22 23:48-0600\n"
+"PO-Revision-Date: 2013-10-05 14:46-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;print;printf\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/"
+"ctpo-testimonials\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/"
+"plugins/ctpo-testimonials\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:319
+msgid "Name: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:325
+msgid "Email: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:331
+msgid "Website"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:364
+msgid "Please rate the following based on your experience:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:407
+msgid "Phone: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:422
+msgid "Would You Recommend?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:445
+msgid "Type of Service: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:456
+msgid "City: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:468
+msgid "Country: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:531
+msgid "State: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:541
+msgid "Zip/Postal Code: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:553
+msgid "Review Title: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:561
+msgid "Comment:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:656
+msgid ""
+"Error: You did not add a rating. Please use the back button on your Web "
+"browser and resubmit your comment with a rating."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/ctpo-testimonials.php:694
+msgid "Your review is awaiting moderation."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:109
+msgid "Review Map"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:112
+msgid "Display map for testimonials: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:121
+msgid "Map City Center:  "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:124
+msgid "e.g., Pensacola, FL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:130
+msgid "Zoom: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:141
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:465
+msgid "Note:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:141
+msgid "Map"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:141
+msgid "must have city center"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:141
+msgid "to initialize."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:141
+msgid ""
+"To display the map, copy this shortcode and paste it in the text editor "
+"where you want it:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:141
+msgid "[review_map]"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:149
+msgid "Testimonials"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:151
+msgid "Display Testimonials: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:160
+msgid "Display Testimonials for what city?  "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:163
+msgid "e.g., Chicago"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:168
+msgid "Display Testimonials for what service?  "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:171
+msgid "e.g., Roofing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:176
+msgid "Product / Service Image:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:178
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:359
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:389
+msgid "e.g., http://www.imageexample.com/my-image.jpg"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:185
+msgid "Create excerpt if testimonial is longer than 350 characters? : "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:194
+msgid "SEO Info"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:196
+msgid "Company Type"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:199
+msgid "Other"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:201
+msgid "Church"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:203
+msgid "Health and/or Beauty"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:205
+msgid "Real Estate Agent"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:207
+msgid "Maid Service"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:209
+msgid "Home and Construction Business"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:212
+msgid "Locksmith"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:214
+msgid "Moving Company"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:221
+msgid "Company Name:  "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:224
+msgid "e.g., John Doe Construction"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:229
+msgid "URL:  "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:232
+msgid "e.g., http://www.johndoeconstruction.com"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:239
+msgid "Note: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:240
+msgid ""
+"To display testimonials for all cities or all services, \n"
+"\t\t\tsimply leave either or both of those fields blank."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:243
+msgid ""
+"To display the testimonials, \n"
+"\t\t\tcopy this shortcode and paste it in the text editor where you want it: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:245
+msgid "[review_testimonials]"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:254
+msgid "Review Form"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:257
+msgid "Display form for reviews: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:271
+msgid "Review Form Title: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:272
+msgid "e.g., Leave a Review"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:279
+msgid "Review Form Description: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:280
+msgid ""
+"e.g., Please leave a brief review and rating of the service based on your "
+"experience..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:299
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:318
+msgid "Type of Service:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:300
+msgid "Installment, Repair, etc..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:319
+msgid "e.g., Installment"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:335
+msgid "Add Service"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:336
+msgid "Remove Service"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:352
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:382
+msgid "Rated Service / Item:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:353
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:383
+msgid "e.g., Timeliness"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:358
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:388
+msgid "Image:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:408
+msgid "Add Service / Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:409
+msgid "Remove Service / Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:414
+msgid "Other Review Form Fields"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:416
+msgid "Display review title field: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:422
+msgid "Display phone field: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:428
+msgid "Display recommend field: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:436
+msgid ""
+"Note: Display state for US Reviews.  Any other countries should display "
+"country instead.  If chosen, country always overrides state."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:438
+msgid "Display city field: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:444
+msgid "Display state field: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:450
+msgid "Display country field: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:456
+msgid "Display zip/postal code field: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:465
+msgid ""
+"To display the review form, copy this shortcode and paste it in the text "
+"editor where you want it: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_admin.php:465
+msgid "[review_form]"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:45
+msgid "review_form"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:100
+msgid "review_map"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:217
+msgid "is rated: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:218
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:287
+msgid "/"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:219
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:287
+msgid "5"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:220
+msgid "based on these "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:220
+msgid "happy customer reviews"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:225
+msgid ""
+" appreciates your feedback.  Please give us more time to collect your "
+"reviews and they will be displayed below."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:286
+msgid "Overall Rating: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_shortcodes.php:340
+msgid "review_testimonials"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_widget.php:7
+msgid "Displays Your Latest, Rated Testimonials"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_widget.php:8
+msgid "Contempo Testimonials"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_widget.php:69
+msgid "Title:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_widget.php:75
+msgid "Display how many testimonials?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/ctpo-testimonials/includes/testimonial_widget.php:163
+msgid "/5"
+msgstr ""

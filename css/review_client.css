@@ -1,0 +1,112 @@
+/* Style for Reviews client-side*/
+
+div#respond{
+	width:100% !important;
+	max-width:444px;
+}
+
+#commentform a {
+	margin:0 !important;
+	padding:0 !important;
+}
+
+form#comment-form{
+	width:100% !important;
+}
+
+div#sfw-respond{
+	width:100% !important;
+	margin-top:0 !important;
+}
+
+hr.review-style {
+	margin: 10px 0 !important;
+	padding: 0 !important;
+}
+
+
+
+span.ctpo-review-text{
+	float:right;
+	width:30%px;
+	height:20px;
+	margin:0 !important;
+	padding:0 !important;
+	display:block;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box; 
+}
+
+span.ctpo-review-text input{
+	margin:0 !important;
+	padding:0 !important;
+	height:20px;
+	width:100% !important;
+	display:block;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box; 
+}
+
+input#author{
+	margin:0 !important;
+	padding:0 !important;
+	height:20px;
+	width:100% !important;
+	max-width:250px;
+	display:block;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box; 
+}
+
+input#email{
+	margin:0 !important;
+	padding:0 !important;
+	height:20px;
+	width:100% !important;
+	max-width:250px;
+	display:block;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box; 
+}
+
+textarea#comment {
+	border: 1px solid rgba(0, 0, 0, 0.1) !important;
+	width:100% !important;
+	max-width:444px;
+}
+
+#respond p{
+	padding: 7px 0 0 0 !important;
+}
+
+#reply-title, .reply-title{
+	margin:0;
+	padding:0;
+}
+
+.comment-awaiting-moderation{
+	color:#FF0000;
+	font-weight:bold;
+}
+
+/* For modern browsers */
+.clearfix:before,
+.clearfix:after {
+	content:"";
+	display:table;
+}
+.clearfix:after {
+	clear:both;
+}
+/* For IE 6/7 (trigger hasLayout) */
+.clearfix {
+  zoom:1;
+}
+
+span.required {
+	color:#ff0000;
+}

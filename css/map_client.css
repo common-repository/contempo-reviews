@@ -1,0 +1,12 @@
+/* Style for Map's client-side*/
+
+div.gmnoscreen div {white-space:nowrap !important; }
+
+#contempo_review_map img{max-width:inherit !important; }
+
+#contempo_review_map{
+box-shadow: 0 0 8px #888888;
+-moz-box-shadow: 0 0 8px #888888;
+-webkit-box-shadow: 0 0 8px #888888;
+max-width:650px;
+}
